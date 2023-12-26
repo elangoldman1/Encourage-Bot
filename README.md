@@ -1,0 +1,1 @@
+This is a Discord bot that offers users positive and uplifting messages in response to negative messages. The bot is triggered by certain words that are considered to be associated with negative emotions.
